@@ -2,7 +2,7 @@
 	"name": "com.rafasloth.archviz.core",
 	"version": "1.0.0",
 	"displayName": "Archviz Core",
-	"description": "Package Required to make a catalog of environments compatible with the Archviz project.\n\nIt requires to download XR Interaction Toolkit's Starter Assets sample.",
+	"description": "Package Required to make a catalog of environments compatible with the Archviz project.\n\nIt requires to download XR Interaction Toolkit's Starter Assets sample.\n\nIt needs to be a 3D (URP) Core template based Unity Project",
 	"unity": "2023.1",
 	"unityRelease": "9f1",
 	"documentationUrl": "https://example.com/",
